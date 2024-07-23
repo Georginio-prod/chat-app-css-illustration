@@ -5,7 +5,10 @@ export default {
     extend: {
       colors: {
         body: '#FAFAFA',
-      }
+        linear1: '#E844FF',
+        linear2: '#8739FF'
+      },
+      
     },
   },
   plugins: [],

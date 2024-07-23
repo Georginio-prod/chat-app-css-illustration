@@ -7,4 +7,10 @@
   margin: 0;
   padding: 0;
   font-family: "Rubik" sans-serif;
+  border: 1px solid red;
 }
+
+/* .custom-rounded-bottom {
+  border-bottom-left-radius: 250px;
+  border-bottom-right-radius: 340px;
+} */
