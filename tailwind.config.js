@@ -6,7 +6,8 @@ export default {
       colors: {
         body: '#FAFAFA',
         linear1: '#E844FF',
-        linear2: '#8739FF'
+        linear2: '#8739FF',
+        des:'#D99EFF'
       },
       
     },
