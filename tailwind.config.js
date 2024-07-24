@@ -9,7 +9,6 @@ export default {
         linear2: '#8739FF',
         des:'#D99EFF'
       },
-      
     },
   },
   plugins: [],
